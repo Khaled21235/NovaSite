@@ -1,3 +1,10 @@
 body{
     font-size: 20px;
+    display:flex;
+    justify-cotent:center;
+}
+div{
+    width:100px;
+    height:100px;
+    background-color:red;
 }
